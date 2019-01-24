@@ -1,2 +1,2 @@
 # Data-Analysis
-Data Analysis in Jupyter Notebook using Pandas, PatPlotLab etc. for national data 
+Data Analysis in Jupyter Notebook using Pandas, MatPlotLib etc. for national data 
